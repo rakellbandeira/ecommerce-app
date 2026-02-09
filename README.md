@@ -10,7 +10,7 @@ Email: admin@example.com
 Password: admin123
 
 # Software Demo Video
-[Youtube Video](http://youtube.link.goes.here)
+[Youtube Video](https://youtu.be/RknV_Subh8o)
 
 # Cloud Database
 - FireStore Database
